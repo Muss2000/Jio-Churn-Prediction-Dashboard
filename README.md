@@ -1,16 +1,14 @@
 # 📊 Jio Telecom Churn Analysis & Prediction Dashboard  <img src="https://github.com/user-attachments/assets/eef56b10-d797-4f69-adf1-5e0a94b57756" alt="images" width="60" height="auto">
 
 
+<img src="https://github.com/user-attachments/assets/a9f41791-9ecc-4939-abac-deb8e8e7f4dd" alt="Screenshot 2024-09-22 171641" width="700" style="margin-bottom: 30px;">
+
+<img src="https://github.com/user-attachments/assets/41829e44-c138-472b-8861-00bae0dcd81b" alt="Screenshot 2024-09-22 224009" width="700">
 
 
 
 
-![Screenshot 2024-09-22 171641](https://github.com/user-attachments/assets/a9f41791-9ecc-4939-abac-deb8e8e7f4dd)
 
-
-
-
-![Screenshot 2024-09-22 224009](https://github.com/user-attachments/assets/41829e44-c138-472b-8861-00bae0dcd81b)
 
 <img src="https://github.com/user-attachments/assets/a9f41791-9ecc-4939-abac-deb8e8e7f4dd" alt="image1" width="400">
 &nbsp;&nbsp;&nbsp;&nbsp;
