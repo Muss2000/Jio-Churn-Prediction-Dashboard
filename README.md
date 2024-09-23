@@ -2,6 +2,13 @@
 
 ![Jio Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Reliance_Jio_Logo.svg/1200px-Reliance_Jio_Logo.svg.png)
 
+
+![Screenshot 2024-09-22 171641](https://github.com/user-attachments/assets/a9f41791-9ecc-4939-abac-deb8e8e7f4dd)
+
+
+![Screenshot 2024-09-22 224009](https://github.com/user-attachments/assets/41829e44-c138-472b-8861-00bae0dcd81b)
+
+
 ## Business Problem:
 
 **Jio**, one of India’s largest telecom service providers, is facing a **churn rate of 27%**, indicating that a substantial portion of its customer base is switching to competitors or discontinuing services. With **1,732 customers churned** and **411 new joiners**, Jio is seeking insights into the factors driving churn, predicting at-risk customers, and identifying strategies to improve retention and customer satisfaction.
