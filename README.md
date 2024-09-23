@@ -12,6 +12,9 @@
 
 ![Screenshot 2024-09-22 224009](https://github.com/user-attachments/assets/41829e44-c138-472b-8861-00bae0dcd81b)
 
+<img src="https://github.com/user-attachments/assets/a9f41791-9ecc-4939-abac-deb8e8e7f4dd" alt="image1" width="400">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/41829e44-c138-472b-8861-00bae0dcd81b" alt="image2" width="400">
 
 ## Business Problem:
 
