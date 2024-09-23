@@ -9,6 +9,8 @@
 
 **Jio**, one of India’s largest telecom service providers, is facing a **churn rate of 27%**, indicating that a substantial portion of its customer base is switching to competitors or discontinuing services. With **1,732 customers churned** and **411 new joiners**, Jio is seeking insights into the factors driving churn, predicting at-risk customers, and identifying strategies to improve retention and customer satisfaction.
 
+Technologies used - MYSQL, Python, Powebi
+
 ---
 
 ## 📈 Churn Analysis Report:
