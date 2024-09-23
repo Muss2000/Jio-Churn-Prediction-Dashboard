@@ -62,7 +62,7 @@
 
 ---
 
-## 🔮 Churn Prediction Report:
+##  Churn Prediction Report:
 
 ### 🚻 **Predicted Churner Profile**:
 - **Female customers** are at higher risk of churn (**249 predicted churners**) compared to **male customers** (**132 predicted churners**).
