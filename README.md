@@ -1,6 +1,6 @@
 # 📊 Jio Telecom Churn Analysis & Prediction Dashboard
 
-![Jio Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Reliance_Jio_Logo.svg/1200px-Reliance_Jio_Logo.svg.png)
+![images](https://github.com/user-attachments/assets/eef56b10-d797-4f69-adf1-5e0a94b57756)
 
 
 ![Screenshot 2024-09-22 171641](https://github.com/user-attachments/assets/a9f41791-9ecc-4939-abac-deb8e8e7f4dd)
